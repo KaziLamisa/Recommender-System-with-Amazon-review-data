@@ -1,5 +1,5 @@
 # Recommender-System-with-Amazon-review-data
-- Dataset: http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/Electronics.csv
+### Dataset: http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/Electronics.csv
 ### Motivation
 - to learn about different types of recommender systems.
 - to explore Memory based and Model based algortithms for collaborative filtering.
