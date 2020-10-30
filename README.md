@@ -12,5 +12,5 @@
 4. Split training and test data, run a KNNWithMeans model, tune hyper parameters, test on test data.
 5. Run SVD from python surprise package, cross validate the model, create a test set for a particular user and make recommendations.
 
-#### To Run the notebook:
+#### Run script.py with below command:
 - python srcipt.py input_csv_file_path/name
